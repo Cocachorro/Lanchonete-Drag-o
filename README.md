@@ -30,3 +30,36 @@ Autor:
 ------
 Desenvolvido por Vitor Ávila
 Projeto acadêmico
+
+Version English
+---------------
+
+Lanchonete Dragão - Terminal Application
+
+Description:
+------------
+This is a simple Java application that simulates a snack bar. It allows the user to choose items from the menu, add them to a cart, and complete the purchase with a simulated payment.
+
+How to Use:
+----------
+- Open the Lanchonete.bat file, or open the command prompt (CMD or PowerShell) in the folder and run manually with: java -jar Lanchonete.jar
+- Navigate the menu using the keyboard
+- Choose your products and complete the purchase
+
+Features:
+---------
+- Interactive menu
+- Menu display with sandwiches, pastries, ice creams, and drinks
+- Add products to the shopping cart
+- Simulated payment via password or QR code
+- Farewell screen
+
+Technologies:
+------------
+- Java 8 or higher
+- Runs in terminal (CMD or IDE terminal)
+
+Author:
+------
+Developed by Vitor Ávila
+Academic project
